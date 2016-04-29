@@ -8,7 +8,7 @@ carrier_dict = {
     'HA': 'Hawaiian Airlines',
     'NK': 'Spirit Airlines',
     'OO': 'SkyWest Airlines',
-    'UA': 'Unite Airlines',
+    'UA': 'United Airlines',
     'VX': 'Virgin America',
     'WN': 'Southwest Airlines'
 }
